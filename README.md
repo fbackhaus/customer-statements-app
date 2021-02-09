@@ -10,4 +10,4 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.\
-This will also run an express server in port 3001, that works as a proxy to the back-end API. [http://localhost:3001]
+This will also run an express server in port 3001, that works as a proxy to the back-end API.
